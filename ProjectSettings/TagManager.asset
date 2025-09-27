@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InventoryButton
+  - Sun
+  - Popper
+  - TheVoid
+  - Launcher
+  - Hammer
+  - Checkpoint
+  - Blaster
+  - Ocean
+  - Enemy
+  - Pusher
+  - Moving
+  - Ground
+  - Bouncer
+  - CameraEdit
+  - Booster
+  - Smasher
+  - enemy
+  - IgnoreOnDeath
+  - PlayerDisplay
+  - Faded
+  - PushSpike
+  - FinalLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Moving
+  - Misc
+  - Player
+  - Enemy
+  - StaticBlock
+  - NewUI
+  - Ocean
+  - IgnoreEnemy
+  - PlayerUI
+  - Blast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3947097225
+    locked: 0
+  - name: Main
+    uniqueID: 2357600953
+    locked: 0
+  - name: Foreground
+    uniqueID: 2385413025
+    locked: 0

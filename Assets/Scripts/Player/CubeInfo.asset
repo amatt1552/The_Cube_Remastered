@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4383540b223fe142a3d84d298487665, type: 3}
+  m_Name: CubeInfo
+  m_EditorClassIdentifier: 
+  speed: 4
+  speedBoostSpeed: 4
+  jumpForce: 4
+  gravityScale: 1
+  jumpHeight: 0.5
+  maxExtraJumps: 0
+  deathTime: 3
+  skins:
+  - {fileID: 0}
+  - {fileID: 2800000, guid: f704533186375c24288a8a49472c5da4, type: 3}
+  - {fileID: 2800000, guid: 4fcf9de560e3c5c43867c6f9688570ac, type: 3}
+  currentSkin: 1
+  poppedEffects:
+  - {fileID: 3894978802294272049, guid: d5f5d80575a2ae942bebd41660aaf8ad, type: 3}
+  smashedEffects: []
+  burnedEffectsA:
+  - {fileID: 8957396494569621240, guid: cef2834314e50b04e9f7bcde7347d34a, type: 3}
+  burnedEffectsB:
+  - {fileID: 9166805480215089173, guid: 1eada0d0c12c8c34b909aa56eec5450f, type: 3}
+  fallenEffects: []
+  slidingEffects:
+  - {fileID: 3305586207407790633, guid: 48a4c8b15552e6945afe11de00797152, type: 3}
+  poppedSoundEffects:
+  - {fileID: 8300000, guid: a3d41b66e9dee46488ae09d0cd3ade8a, type: 3}
+  smashedSoundEffects:
+  - {fileID: 0}
+  burnedSoundEffects:
+  - {fileID: 8300000, guid: 14711fb8968578d479472de9c3725f50, type: 3}
+  fallenSoundEffects:
+  - {fileID: 0}
+  slidingSoundEffects:
+  - {fileID: 8300000, guid: 342ccbb9b1b358c44af84deb33345b80, type: 3}
+  hittingSoundEffects:
+  - {fileID: 8300000, guid: 4dd7a2f4ef210874cb3e4aa800e93a40, type: 3}

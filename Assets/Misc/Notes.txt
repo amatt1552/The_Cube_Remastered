@@ -1,0 +1,60 @@
+CubeNotes
+* = done
+/* = half done
+! = priority
+? = might not do it
+
+finish up camera movements
+	camera getting edited *
+	smoother camera *
+	stop camera following on fall death *
+	camera rotation ?
+	cameraMove mechanics reintroduced ?
+		ability to turn off auto zoom and switch to manual
+		move camera around
+	fix camera snap !
+
+clean up effects
+	more physics
+	add loading screen *
+	move level ending elevator up *
+	better models ?
+
+player
+	add a "step" for player *
+	fix it when hitting your head still jumps *
+	add a fall *
+	add a "player snap" *
+	clean up jumps ?
+	set one dead area and set everything there at some point ?
+	rotates when thrown on layer launcher
+	make controller have events ?
+	add indicactor for falling and about to fall !
+	add self destruct *
+	layermasks ?
+	make names more consisitant
+
+level design
+	make spikes procedural*
+	"upgrade" enemies 
+		rotating *
+		texture *
+		slowdown when reaching point *
+		follow player
+		new texture
+	set up thrown deaths *
+	fix floating in smasher *
+	change design of minor things (training room for reference) *
+	level 6 move cameraEdit *
+	training room ?
+	lower bottoms of objects !
+	layerlauncher rotation
+	holo 
+	tweak GameObject's values 
+	move that checkpoint
+
+Sounds
+	add firing sound to blasters
+	menu music
+	speed up increases pitch
+	soundeffects for UI
