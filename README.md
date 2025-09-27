@@ -1,2 +1,2 @@
 # TheCube
-Codes for my recent version of the game TheCube.
+Full project files for my recent version of the game The Cube.
